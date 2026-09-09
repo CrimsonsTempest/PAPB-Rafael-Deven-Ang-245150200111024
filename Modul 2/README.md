@@ -27,3 +27,9 @@ compose juga menggunakan 1 bahasa saja yaitu kotlin sehingga lebih singkron seca
 sifat modular juga membuat compose reuseable 
 
 
+<br><br><br><br><br><br>
+screenshot alikasi vertikal dan horizontal
+
+
+![alt text](vertical.png)
+![alt text](horizontal.png)
