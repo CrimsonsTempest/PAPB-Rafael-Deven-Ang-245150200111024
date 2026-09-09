@@ -16,7 +16,7 @@ terakhir pasang button yang menyimpan boolean isFollowed  dengan remember mutabl
 
 semua elemen tadi lakukan alignment center secara horizontal
 
-
+<br><br><br><br><br><br>
 Analisis singkat keuntungan Compose dibandingkan XML layout:
 
 Compose memudahkan pengembangan UI karena bersifat deklaratif dibanding XML layout yang imperatif.
